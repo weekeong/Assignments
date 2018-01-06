@@ -1,0 +1,165 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         11
+	Longest value:         7 characters
+	Most common values:    B000213 (1x)
+	                       B001270 (1x)
+	                       B001245 (1x)
+	                       C001051 (1x)
+	                       C001067 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         11
+	Longest value:         26 characters
+	Most common values:    HON. JOE BARTON (1x)
+	                       HON. KAREN BASS (1x)
+	                       HON. MADELEINE Z. BORDALLO (1x)
+	                       HON. JOHN R. CARTER (1x)
+	                       HON. YVETTE D. CLARKE (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (11x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (11x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    TRAVEL (11x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         9
+	Smallest value:        2017-01-05
+	Largest value:         2017-03-29
+	Most common values:    2017-03-27 (2x)
+	                       2017-03-29 (2x)
+	                       2017-02-02 (1x)
+	                       2017-01-05 (1x)
+	                       2017-02-24 (1x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (11x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         11
+	Longest value:         8 characters
+	Most common values:    E0482901 (1x)
+	                       E0497615 (1x)
+	                       E0469225 (1x)
+	                       E0486722 (1x)
+	                       E0499198 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         25 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (10x)
+	                       STRADER NICHOLAS L. (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         10
+	Smallest value:        2016-10-02
+	Largest value:         2017-02-08
+	Most common values:    2017-01-18 (2x)
+	                       2017-01-10 (1x)
+	                       2016-10-10 (1x)
+	                       2017-01-25 (1x)
+	                       2016-12-03 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         9
+	Smallest value:        2016-11-11
+	Largest value:         2017-03-04
+	Most common values:    2017-01-21 (2x)
+	                       2017-02-24 (2x)
+	                       2017-01-28 (1x)
+	                       2016-11-14 (1x)
+	                       2016-12-06 (1x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         7 characters
+	Most common values:    LODGING (11x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         11
+	Smallest value:        5,082.7
+	Largest value:         9,823.44
+	Sum:                   74,312.21
+	Mean:                  6,755.655
+	Median:                5,992
+	StDev:                 1,615.834
+	Most common values:    8,476.76 (1x)
+	                       5,962.47 (1x)
+	                       9,823.44 (1x)
+	                       7,234.44 (1x)
+	                       8,933.85 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,016
+	Largest value:         2,017
+	Sum:                   22,183
+	Mean:                  2,016.636
+	Median:                2,017
+	StDev:                 0.505
+	Most common values:    2,017 (7x)
+	                       2,016 (4x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         25 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (10x)
+	                       STRADER NICHOLAS L. (1x)
+
+Row count: 11
